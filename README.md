@@ -1,5 +1,5 @@
 # 🤖Hello there, I'm Mohit!
-👨‍💻 I’m a Ex-SWE intern @Clean Spark Innovations<br>🔭 I have proficient knowledge of DSA and Web Dev <br>🌪️ Learning ML and MLOps <br>💬 Currently a sophomore B.Tech CSE with AI ML student at Sharda University.<br>
+👨‍💻 I am a SWE Intern at a Dubai based MNC <br>🔭 I have proficient knowledge of DSA and Web Dev <br>🌪️ Learning ML and MLOps <br>💬 Currently a sophomore B.Tech CSE with AI ML student at Sharda University.<br>
 
 
 ## 🌐 Socials:
